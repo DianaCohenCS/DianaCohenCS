@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with landing a job in R&D for Network Security.
 - 💬 Ask me about self-motivation for constant learning, competing with younger minds.
 - 📫 How to reach me: diana.cohen@technion.ac.il
-- ⚡ Fun fact: I failed my math class at 1st grade since I couldn't memorize multiplication table. I used my fingers to make the calculations instead.
+- ⚡ Fun fact: I failed my math class at 1st grade as I couldn't memorize multiplication table. I used my fingers to make the calculations instead.
 - 🤹‍♀️ Additional activities:
   - ACM SYSTOR publicity chair.
   - Volunteer at Hackeriot Haifa.
