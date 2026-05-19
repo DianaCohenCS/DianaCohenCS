@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🥷 MSc in Computer Science from the Technion, with 10+ years of hands-on experience in software development using Agile SDLC model, having expertise in legacy system modernization.
-- 🔭 I’m currently teaching Projects in SW Engineering at the Technion, coordinating Smart City development for the Haifa Municipality, leading 25 future SW engineers.
-- 🌱 I’m currently learning AI tools (e.g. GitHub Copilot) to accelerate development processes.
+- 🔭 I’m currently teaching Capstone Projects in SW Engineering at the Technion, leading a Smart City development for the Haifa Municipality, coordinating ~40 developers to design and deliver distributed systems for various municipal use cases.
+- 🌱 I’m currently learning GenAI tools (e.g. GitHub Copilot) to accelerate development processes.
 - 👯 I’m looking to collaborate on Go (GoLang) programming as I expand my prior development expertise in C#.NET.
 - 🤔 I’m looking for help with landing a job in R&D for Network Security.
 - 💬 Ask me about self-motivation for constant learning, competing with younger minds.
 - 📫 How to reach me: diana.cohen@technion.ac.il
 - ⚡ Fun fact: I failed my math class at 1st grade as I couldn't memorize multiplication table. I used my fingers to make the calculations instead.
 - 🤹‍♀️ Additional activities:
-  - ACM SYSTOR publicity chair.
-  - Volunteer at Hackeriot Haifa.
+  - ACM SYSTOR publicity chair. 
+  - Volunteer at Hackeriot Haifa. 
   - Member of Technipwn - the Technion CTF team. 
